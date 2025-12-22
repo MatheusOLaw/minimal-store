@@ -1,0 +1,2 @@
+# minimal-store
+Loja Ficticia
